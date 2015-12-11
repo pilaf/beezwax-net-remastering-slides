@@ -5,3 +5,6 @@ class: center, middle, inverse
 #Beezwax.net remastering
 ---
 Foobar
+---
+![marquete](people/marquete.jpg)
+![mary](people/mary.jpg)
