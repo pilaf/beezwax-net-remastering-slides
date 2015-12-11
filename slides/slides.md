@@ -9,9 +9,11 @@ Foobar
 ![milhouse](people/milhouse.jpg)
 ![marquete](people/marquete.jpg)
 ![mary](people/mary.jpg)
+<br>
 ![seano](people/seano.jpg)
 ![ryan](people/ryan.jpg)
 ![kevin](people/kevin.jpg)
+<br>
 ![shivam](people/shivam.jpg)
 ![pablo](people/pablo.jpg)
 ![pedro](people/pedro.jpg)
