@@ -27,7 +27,7 @@ Also Julian, Jay, Luke and anyone I may have forgotten
 layout: false
 class: inverse
 
-# Goals
+## Project goals
 
 * Catch up with latest web technologies
 * Modern look
@@ -43,21 +43,15 @@ template: center
 ---
 template: center
 
-# Where we're at
-
 ## Completely reworked HTML codebase
 
 Easier to maintain and extend
 ---
 template: center
 
-# Where we're at
-
 ## Slicker, more modern design
 ---
 template: center
-
-# Where we're at
 
 ## Full mobile support, responsive design
 
@@ -67,15 +61,11 @@ Mobile score on Google PageSpeed
 ---
 template: center
 
-# Where we're at
-
 ## Improved SEO
 
 Thanks to Mary and Shivam
 ---
 template: center
-
-# Where we're at
 
 ## Recruitment form
 ---
