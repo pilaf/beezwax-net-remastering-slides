@@ -31,7 +31,7 @@ class: inverse
 * Catch up with latest web technologies
 * Modern look
 * Mobile support
-* Faster loads
+* Faster loadtimes
 * SEO
 * New features
 ---
@@ -44,16 +44,10 @@ class: inverse
 
 Easier to maintain and extend
 ---
-layout: false
-class: inverse
-
 # Where we're at
 
 ## Slicker, more modern design
 ---
-layout: false
-class: inverse
-
 # Where we're at
 
 ## Full mobile support, responsive design
@@ -62,9 +56,6 @@ class: inverse
 
 Mobile score on Google PageSpeed
 ---
-layout: false
-class: inverse
-
 # Where we're at
 
 ## Improved SEO
