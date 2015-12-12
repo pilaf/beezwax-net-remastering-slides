@@ -4,33 +4,47 @@ class: center, middle, inverse
 ---
 #Beezwax.net 3.0
 ---
-#We launched!
+~520 git commits later...
+
+#We've launched!
 ---
 # Big thanks to everyone who helped!
 
-![milhouse](people/milhouse.jpg)
-![marquete](people/marquete.jpg)
-![mary](people/mary.jpg)
+![Milhouse](people/milhouse.jpg)
+![Marquete](people/marquete.jpg)
+![Mary](people/mary.jpg)
 <br>
-![seano](people/seano.jpg)
-![ryan](people/ryan.jpg)
-![kevin](people/kevin.jpg)
+![Seano](people/seano.jpg)
+![Ryan](people/ryan.jpg)
+![Kevin](people/kevin.jpg)
 <br>
-![shivam](people/shivam.jpg)
-![pablo](people/pablo.jpg)
-![pedro](people/pedro.jpg)
+![Shivam](people/shivam.jpg)
+![Pablo](people/pablo.jpg)
+![Pedro](people/pedro.jpg)
 
-Also Jay, Luke, Julian and everyone who gave feedback
+Also Julian, Jay, Luke and anyone I may have forgotten
 ---
 # Project goals
 
-???
 * Catch up with latest web technologies
-???
 * Modern look
-???
 * Mobile support
-???
 * Improved load speeds
-???
 * SEO
+---
+# Where we're at
+
+## Full mobile support
+
+![Pagespeed Mobile](pagespeed.png)
+
+Mobile score on Google PageSpeed
+---
+# Where we're at
+
+---
+# The road ahead...
+
+* Single sign on
+* Search
+* Improved blog
