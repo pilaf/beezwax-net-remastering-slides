@@ -1,3 +1,4 @@
+name: center
 layout: true
 class: center, middle, inverse
 ---
@@ -36,7 +37,8 @@ class: inverse
 * Improved recruitment process
 * New features
 ---
-layout: true
+layout: false
+class: inverse
 
 # Where we're at
 
@@ -44,13 +46,13 @@ layout: true
 
 Easier to maintain and extend
 ---
-layout: true
+template: center
 
 # Where we're at
 
 ## Slicker, more modern design
 ---
-layout: true
+template: center
 
 # Where we're at
 
@@ -60,7 +62,7 @@ layout: true
 
 Mobile score on Google PageSpeed
 ---
-layout: true
+template: center
 
 # Where we're at
 
