@@ -27,15 +27,19 @@ Also Julian, Jay, Luke and anyone I may have forgotten
 layout: false
 class: inverse
 
-# Project goals
+.left-column[
+  # Goals
+]
 
-* Catch up with latest web technologies
-* Modern look
-* Mobile support
-* Faster loadtimes
-* SEO
-* Improved recruitment process
-* New features
+.right-column[
+  * Catch up with latest web technologies
+  * Modern look
+  * Mobile support
+  * Faster loadtimes
+  * SEO
+  * Improved recruitment process
+  * New features
+]
 ---
 template: center
 
@@ -43,16 +47,11 @@ template: center
 ---
 template: center
 
-.left-column[
-  # Where we're at
-]
+# Where we're at
 
-.right-column[
-  ## Completely reworked HTML codebase
+## Completely reworked HTML codebase
 
-  Easier to maintain and extend
-]
-
+Easier to maintain and extend
 ---
 template: center
 
@@ -78,12 +77,32 @@ template: center
 
 Thanks to Mary and Shivam
 ---
-layout: false
-class: inverse
+template: center
+
+# Where we're at
+
+## Recruitment form
+---
+template: center
 
 # The road ahead...
+---
+template: center
 
-* Single sign on
-* Search
-* Continuous enhancements
-* Improved blog
+## Search
+
+Almost there! Thanks Shivam
+---
+template: center
+
+## Single sign on
+
+Coming soon!
+---
+template: center
+
+## Improved blog
+---
+template: center
+
+# Let's take a quick look!
