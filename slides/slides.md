@@ -33,10 +33,10 @@ class: inverse
 * Mobile support
 * Faster loadtimes
 * SEO
+* Improved recruitment process
 * New features
 ---
-layout: false
-class: inverse
+layout: true
 
 # Where we're at
 
@@ -44,10 +44,14 @@ class: inverse
 
 Easier to maintain and extend
 ---
+layout: true
+
 # Where we're at
 
 ## Slicker, more modern design
 ---
+layout: true
+
 # Where we're at
 
 ## Full mobile support, responsive design
@@ -56,6 +60,8 @@ Easier to maintain and extend
 
 Mobile score on Google PageSpeed
 ---
+layout: true
+
 # Where we're at
 
 ## Improved SEO
