@@ -31,7 +31,9 @@ class: inverse
 * Catch up with latest web technologies
 * Modern look
 * Mobile support
+* Faster loads
 * SEO
+* New features
 ---
 layout: false
 class: inverse
@@ -40,14 +42,21 @@ class: inverse
 
 ## Completely reworked HTML codebase
 
-## Slicker, modern design
+Easier to maintain and extend
 ---
 layout: false
 class: inverse
 
 # Where we're at
 
-## Full mobile support
+## Slicker, more modern design
+---
+layout: false
+class: inverse
+
+# Where we're at
+
+## Full mobile support, responsive design
 
 ![Pagespeed Mobile](pagespeed.png)
 
@@ -69,4 +78,5 @@ class: inverse
 
 * Single sign on
 * Search
+* Continuous enhancements
 * Improved blog
