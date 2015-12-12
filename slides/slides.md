@@ -37,14 +37,22 @@ class: inverse
 * Improved recruitment process
 * New features
 ---
-layout: false
-class: inverse
+template: center
 
 # Where we're at
+---
+template: center
 
-## Completely reworked HTML codebase
+.left-column[
+  # Where we're at
+]
 
-Easier to maintain and extend
+.right-column[
+  ## Completely reworked HTML codebase
+
+  Easier to maintain and extend
+]
+
 ---
 template: center
 
