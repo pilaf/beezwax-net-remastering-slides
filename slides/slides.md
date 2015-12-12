@@ -32,13 +32,13 @@ class: inverse
 ]
 
 .right-column[
-* Catch up with latest web technologies
-* Modern look
-* Mobile support
-* Faster loadtimes
-* SEO
-* Improved recruitment process
-* New features
+- Catch up with latest web technologies
+- Modern look
+- Mobile support
+- Faster loadtimes
+- SEO
+- Improved recruitment process
+- New features
 ]
 ---
 template: center
