@@ -7,7 +7,7 @@ Over 520 git commits later...
 
 #We've launched!
 ---
-# Big thanks to everyone who helped!
+## Big thanks to everyone who helped!
 
 ![Milhouse](people/milhouse.jpg)
 ![Marquete](people/marquete.jpg)
@@ -31,8 +31,16 @@ class: inverse
 * Catch up with latest web technologies
 * Modern look
 * Mobile support
-* Improved load speeds
 * SEO
+---
+layout: false
+class: inverse
+
+# Where we're at
+
+## Completely reworked HTML codebase
+
+## Slicker, modern design
 ---
 layout: false
 class: inverse
@@ -50,6 +58,9 @@ class: inverse
 
 # Where we're at
 
+## Improved SEO
+
+Thanks to Mary and Shivam
 ---
 layout: false
 class: inverse
