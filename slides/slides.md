@@ -1,4 +1,3 @@
-title: Beezwax.net remastering
 layout: true
 class: center, middle, inverse
 ---
@@ -24,8 +23,8 @@ class: center, middle, inverse
 
 Also Julian, Jay, Luke and anyone I may have forgotten
 ---
-class: inverse
----
+class: left, inverse
+
 # Project goals
 
 * Catch up with latest web technologies
@@ -34,6 +33,8 @@ class: inverse
 * Improved load speeds
 * SEO
 ---
+class: left, inverse
+
 # Where we're at
 
 ## Full mobile support
@@ -42,9 +43,11 @@ class: inverse
 
 Mobile score on Google PageSpeed
 ---
+class: left, inverse
 # Where we're at
 
 ---
+class: left, inverse
 # The road ahead...
 
 * Single sign on
