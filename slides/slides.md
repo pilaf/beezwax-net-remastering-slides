@@ -24,6 +24,8 @@ class: center, middle, inverse
 
 Also Julian, Jay, Luke and anyone I may have forgotten
 ---
+class: inverse
+---
 # Project goals
 
 * Catch up with latest web technologies
