@@ -3,7 +3,7 @@ class: center, middle, inverse
 ---
 #Beezwax.net 3.0
 ---
-~520 git commits later...
+Over 520 git commits later...
 
 #We've launched!
 ---
@@ -24,6 +24,7 @@ class: center, middle, inverse
 Also Julian, Jay, Luke and anyone I may have forgotten
 ---
 layout: false
+class: inverse
 
 # Project goals
 
@@ -34,6 +35,7 @@ layout: false
 * SEO
 ---
 layout: false
+class: inverse
 
 # Where we're at
 
@@ -43,11 +45,15 @@ layout: false
 
 Mobile score on Google PageSpeed
 ---
-class: left, inverse
+layout: false
+class: inverse
+
 # Where we're at
 
 ---
-class: left, inverse
+layout: false
+class: inverse
+
 # The road ahead...
 
 * Single sign on
