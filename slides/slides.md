@@ -23,7 +23,7 @@ class: center, middle, inverse
 
 Also Julian, Jay, Luke and anyone I may have forgotten
 ---
-class: left, inverse
+layout: false
 
 # Project goals
 
@@ -33,7 +33,7 @@ class: left, inverse
 * Improved load speeds
 * SEO
 ---
-class: left, inverse
+layout: false
 
 # Where we're at
 
